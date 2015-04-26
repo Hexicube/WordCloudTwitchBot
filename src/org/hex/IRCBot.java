@@ -40,8 +40,8 @@ public class IRCBot
 	
 	public static Date time = new Date();
 	
-	public static String username = "hexicube"; //PUT USERNAME IN HERE
-	public static String password = "oauth:xpbhml99l02nd1crp2mr3ecbqfr3rg"; //PUT OATH KEY IN HERE
+	public static String username = ""; //PUT USERNAME IN HERE
+	public static String password = "oauth:"; //PUT OATH KEY IN HERE
 	public static String channel = null;
 	
 	public static ArrayList<Message> messages = new ArrayList<Message>();
